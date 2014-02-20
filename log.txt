@@ -1,0 +1,18 @@
+== Log on what has been done. ==
+
+2/18/2014
+1] Installed and created Apache.
+2] Installed and created PHP5.
+3] Installed and created Mysql
+4] Information on username and password are located at the desktop.
+5] Installed wordpress.
+6] Downloaded Active theme.
+7] Gave access to /var/www/projects/SFUSD/wordpress/wp-content/themes/
+8] Drag and dropped the theme to ~/wp-content
+
+*** Things to think about ***
+1] Login system for teachers
+2] Allow each teacher to create their own website for their classroom.
+3] Show Laura the website.
+4] Look for new themes for the website. 
+http://stackoverflow.com/questions/18665313/wordpress-how-do-i-make-a-login-system-with-users-having-their-own-profile-and
