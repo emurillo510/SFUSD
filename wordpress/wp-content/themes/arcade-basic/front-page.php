@@ -51,7 +51,7 @@ if ( 2 > $paged ) {
 		<div class="row">
 			<div id="primary" <?php if ( 2 > $paged ) { ?>class="col-md-12 hfeed"<?php } else { bavotasan_primary_attr(); }; ?>>
 				<?php if ( 2 > $paged ) { ?>
-					<div class="page-header clearfix"><h1 class="pull-left"><?php _e( 'From the Blog', 'arcade' ); ?></h1><?php if ( 2 > $paged ) bavotasan_pagination(); ?></div>
+					<div class="page-header clearfix"><h1 class="pull-left"><?php _e( 'About Visitation Valley', 'arcade' ); ?></h1><?php if ( 2 > $paged ) bavotasan_pagination(); ?></div>
 				<?php }
 				if ( have_posts() ) {
 					if ( 'page' != get_option('show_on_front') && 2 > $paged )
